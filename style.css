@@ -1,0 +1,32 @@
+header>nav>ul {
+  list-style: none;
+}
+body > header {
+  background-color: dodgerblue;
+  color: whitesmoke;
+  padding-bottom: 5px;
+}
+
+header>nav>ul>li>a {
+  color: whitesmoke;
+}
+
+.main {
+  width:80%;
+  /* taking 80% of the page */
+  margin:auto;
+  /* auto makes the text be in the middle of the page  */
+}
+
+body > footer > p {
+  padding: 16px;
+  background-color: dodgerblue;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.user {
+  border-top: 1px solid black;
+  padding-top: 5px;
+}
+
